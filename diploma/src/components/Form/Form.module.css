@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+.FormContainer{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10vh 0 0;
+}
+
+.Input{
+    width: 52vw;
+    height: 4vh;
+    outline: none;
+    font-family: 'Raleway', sans-serif;
+    font-size: 3vh;
+}
+
+.Button{
+    height: 4.5vh;
+    width: 5vw;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2vh;
+}
