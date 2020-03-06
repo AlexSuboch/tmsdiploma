@@ -5,3 +5,6 @@ It also made it possible to view brief information about the selected video and 
 
 
 Technology used: HTML, CSS, JavaScript, React, Redux
+
+You can try it!
+https://alexsuboch.github.io/
